@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Text(turn+" turn"),
+          
           SizedBox(height: 10,),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
